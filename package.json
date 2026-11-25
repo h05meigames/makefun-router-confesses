@@ -1,0 +1,1 @@
+{"description":"The Router Confesses — a one-liner make.fun bounty entry: a Wi-Fi router's funny confession, written to /output/entry.txt","license":"MIT","main":"main.ts","name":"makefun-router-confesses","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
