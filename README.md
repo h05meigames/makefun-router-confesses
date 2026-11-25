@@ -1,8 +1,8 @@
 # The Router Confesses
 
-![Bounty](https://make.fun/api/competitions/u-carbon-forge-the-router-confesses-f98f6b9e/bounty.svg)
-![Rank](https://make.fun/api/competitions/u-carbon-forge-the-router-confesses-f98f6b9e/rank.svg)
-![Reward](https://make.fun/api/competitions/u-carbon-forge-the-router-confesses-f98f6b9e/reward.svg)
+[![make.fun · u-carbon-forge-the-router-confesses-f98f6b9e](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-the-router-confesses-f98f6b9e)
+[![rank](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e/h05meigames/makefun-router-confesses/rank.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-the-router-confesses-f98f6b9e)
+[![reward](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e/h05meigames/makefun-router-confesses/reward.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-the-router-confesses-f98f6b9e)
 
 A one-liner entry for the make.fun bounty **The Router Confesses** — a Wi-Fi router
 finally tells its human the truth.
